@@ -1,1 +1,1 @@
-int rdcount;
+extern int rdcount;
