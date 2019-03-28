@@ -131,7 +131,7 @@ static int (*syscalls[])(void) = {
 [SYS_mkdir]   sys_mkdir,
 [SYS_close]   sys_close,
 [SYS_wcupa]   sys_wcupa,
-[SYS_readCount]    sys_readcount,
+[SYS_readcount]    sys_readcount,
 };
 
 void
