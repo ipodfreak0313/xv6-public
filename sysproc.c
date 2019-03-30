@@ -98,7 +98,7 @@ sys_wcupa(void)
 }
 
 int
-sys_readcount(void)
+sys_getreadcount(void)
 {
   return rdcount;
 }
